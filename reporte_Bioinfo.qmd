@@ -257,7 +257,7 @@ En total hay **30,808,124 pares de lecturas** (**61,616,248 lecturas**, contando
 
 ### Reporte FastQC de un archivo
 
-![](imagenes/per_base_quality.png)
+![](per_base_quality.png)
 
 La figura muestra la calidad por base de SRR1658454_1. La mediana del puntaje Phred se mantiene alrededor de Q36 en casi todas las posiciones (Q33-34 en las primeras cinco bases), lo que equivale a una probabilidad de error de \~0.025 %. Todo el perfil, incluyendo los percentiles inferiores (\~Q32), permanece en la zona verde (Q \> 28), y no se observa el deterioro de calidad hacia el extremo 3' típico de las lecturas de Illumina; solo hay una ligera disminución en la última base. El archivo presenta, por tanto, buena calidad para análisis posteriores.
 
